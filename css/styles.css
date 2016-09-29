@@ -34,8 +34,15 @@ nav{
 }
 
 h1 {
+    display: inline-block;
     font-weight: 700;
     color: #FFA5E4;
+    margin: 0px auto;
+}
+h4 {
+  display: inline-block;
+  color: #FFA2E4;
+  margin: 0px auto;
 }
 
 
@@ -71,4 +78,13 @@ h2 {
 
 article {
   /*padding: 0px 50px;*/
+}
+
+
+/*cart page*/
+.information {
+  padding: 50px;
+}
+p {
+  padding: 0 50px;
 }
