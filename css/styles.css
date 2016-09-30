@@ -97,9 +97,6 @@ aside{
   margin: 100px 0 0 10px;
 }
 
-article {
-  /*padding: 0px 50px;*/
-}
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -127,29 +124,37 @@ button{
   font-weight: bold;
 }
 
-
 /*cart page*/
 .information {
-  padding: 10%;
+  padding: 10px;
   font-family: 'Asap', sans-serif;
 }
 
+#creation {
+  text-align: center;
+}
+
+#info {
+  text-align: center;
+}
 
 .border {
     display: inline-block;
-    padding: 20%;
+    margin: 0 23% 0 23%;
+    width: 50%;
+    padding: 10px;
     border: 5px solid #FFD5E4;
 
+
+
 }
-
-
-
 
 p {
   display: inline-block;
   padding: 0 10px;
 >>>>>>> 67d2272e82594b5bd13a50179968ea8a87813218
 }
+
 footer {
   clear: both;
   margin: 0 auto;
