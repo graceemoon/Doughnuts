@@ -116,7 +116,7 @@ button{
 
 .border {
     display: inline-block;
-    margin: 23%;
+    margin: 0 23% 0 23%;
     width: 50%;
     padding: 10px;
     border: 5px solid #FFD5E4;
